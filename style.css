@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    margin-top: 23px;
+    width: auto;
+    
+}
+.table{
+    margin: auto;
+    height:350px;
+    width:260px
+} 
+input {
+    font-size:x-large;
+    border: 2px solid red;
+    border-radius: 25px;
+    box-shadow: indianred;
+    height: 50px;
+}
+button{
+    font-size: larger;
+    background-color: grey;
+    width: 50px;
+    height: 50px;
+    border-radius: 26px;
+    box-shadow:gold;
+}
+.calculator {
+    background-color: lavender;
+    border: 6px solid black;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
